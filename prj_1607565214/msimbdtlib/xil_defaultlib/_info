@@ -1,0 +1,166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/emladina/conifer/examples/prj_1607565214
+Esimulationinput
+Z1 w1607565214
+Z2 DPx3 bdt 9 constants 0 22 6VOEHkn=7e0o@=_6eSCAh0
+Z3 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z4 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+Z5 DPx3 bdt 5 types 0 22 hJnb;]]W75K_chRkWjX[13
+Z6 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z7 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z10 8./firmware/SimulationInput.vhd
+Z11 F./firmware/SimulationInput.vhd
+l0
+L11
+VBTZWgJ]g9mGY0j<k7PRI]0
+!s100 Jin5j7W4U_Y:MzZ8D5jBa0
+Z12 OV;C;10.6d;65
+33
+Z13 !s110 1607565215
+!i10b 1
+Z14 !s108 1607565215.000000
+Z15 !s90 -2008|-work|xil_defaultlib|./firmware/SimulationInput.vhd|
+Z16 !s107 ./firmware/SimulationInput.vhd|
+!i113 1
+Z17 o-2008 -work xil_defaultlib
+Z18 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+Z19 DEx4 work 15 simulationinput 0 22 BTZWgJ]g9mGY0j<k7PRI]0
+l28
+L24
+Vn5n<cgLi[Ka:M:k`K5HV=2
+!s100 7A@Jj:bRKe]fMYzPcc0U50
+R12
+33
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Esimulationoutput
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R0
+Z20 8./firmware/SimulationOutput.vhd
+Z21 F./firmware/SimulationOutput.vhd
+l0
+L25
+VfV^3_W<^TG@A@a?WOSk]E1
+!s100 1nVE`4AX61mNYo512G0;?2
+R12
+33
+R13
+!i10b 1
+R14
+Z22 !s90 -2008|-work|xil_defaultlib|./firmware/SimulationOutput.vhd|
+Z23 !s107 ./firmware/SimulationOutput.vhd|
+!i113 1
+R17
+R18
+Artl
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+Z24 DEx4 work 16 simulationoutput 0 22 fV^3_W<^TG@A@a?WOSk]E1
+l39
+L38
+Vkk=cYS?=:DNcD5>GMcgP=3
+!s100 c<EN;]^4dQUz;?ZgT?^j?2
+R12
+33
+R13
+!i10b 1
+R14
+R22
+R23
+!i113 1
+R17
+R18
+Etestbench
+R1
+R5
+R7
+R3
+R4
+R2
+R8
+R9
+R0
+Z25 8./firmware/BDTTestbench.vhd
+Z26 F./firmware/BDTTestbench.vhd
+l0
+L8
+VFJACXm6ZlHBeaSKV>Am^O3
+!s100 W>6HKfRIN>OG423]z2Mkz0
+R12
+33
+R13
+!i10b 1
+R14
+Z27 !s90 -2008|-work|xil_defaultlib|./firmware/BDTTestbench.vhd|
+!s107 ./firmware/BDTTestbench.vhd|
+!i113 1
+R17
+R18
+Artl
+R24
+DPx3 bdt 7 arrays0 0 22 =E5okBcB209F62>z5@@890
+DEx3 bdt 6 bdttop 0 22 j05Yd_R2;@8PTXW8kHI`02
+R6
+R19
+R5
+R7
+R3
+R4
+R2
+R8
+R9
+DEx4 work 9 testbench 0 22 FJACXm6ZlHBeaSKV>Am^O3
+l17
+L11
+VAL71nPl?Em28C:X8ZK?Nk0
+!s100 3=;O0BzZ?a6QLWZ]hTQWV1
+R12
+33
+R13
+!i10b 1
+R14
+R27
+Z28 !s107 ./firmware/BDTTestbench.vhd|
+!i113 1
+R17
+R18

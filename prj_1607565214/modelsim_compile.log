@@ -1,0 +1,166 @@
+Model Technology ModelSim - Intel FPGA Edition vmap 10.6d Lib Mapping Utility 2018.02 Feb 24 2018
+vmap BDT msimbdtlib/BDT 
+Copying /opt/local/intelFPGA_pro/18.1/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+Modifying modelsim.ini
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 19:53:34 on Dec 09,2020
+vcom -2008 -work BDT ./firmware/Constants.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading package NUMERIC_STD
+-- Compiling package Constants
+-- Compiling package body Constants
+-- Loading package Constants
+End time: 19:53:34 on Dec 09,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 19:53:34 on Dec 09,2020
+vcom -2008 -work BDT ./firmware/Types.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading package NUMERIC_STD
+-- Loading package Constants
+-- Compiling package Types
+-- Compiling package body Types
+-- Loading package Types
+End time: 19:53:34 on Dec 09,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 19:53:34 on Dec 09,2020
+vcom -2008 -work BDT ./firmware/Tree.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading package NUMERIC_STD
+-- Loading package Constants
+-- Loading package Types
+-- Compiling entity Tree
+-- Compiling architecture rtl of tree
+End time: 19:53:34 on Dec 09,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 19:53:34 on Dec 09,2020
+vcom -2008 -work BDT ./firmware/AddReduce.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading package Constants
+-- Loading package Types
+-- Compiling entity AddReduce
+-- Compiling architecture behavioral of AddReduce
+End time: 19:53:34 on Dec 09,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 19:53:34 on Dec 09,2020
+vcom -2008 -work BDT ./firmware/Arrays0.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading package NUMERIC_STD
+-- Loading package Constants
+-- Loading package Types
+-- Compiling package Arrays0
+End time: 19:53:34 on Dec 09,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 19:53:34 on Dec 09,2020
+vcom -2008 -work BDT ./firmware/BDT.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading package NUMERIC_STD
+-- Loading package Constants
+-- Loading package Types
+-- Compiling entity BDT
+-- Compiling architecture rtl of BDT
+-- Loading entity Tree
+-- Loading entity AddReduce
+End time: 19:53:35 on Dec 09,2020, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 19:53:35 on Dec 09,2020
+vcom -2008 -work BDT ./firmware/BDTTop.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading package NUMERIC_STD
+-- Loading package Constants
+-- Loading package Types
+-- Loading package Arrays0
+-- Compiling entity BDTTop
+-- Compiling architecture rtl of BDTTop
+-- Loading entity BDT
+End time: 19:53:35 on Dec 09,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+Model Technology ModelSim - Intel FPGA Edition vmap 10.6d Lib Mapping Utility 2018.02 Feb 24 2018
+vmap xil_defaultlib msimbdtlib/xil_defaultlib 
+Modifying modelsim.ini
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 19:53:35 on Dec 09,2020
+vcom -2008 -work xil_defaultlib ./firmware/SimulationInput.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading package Constants
+-- Loading package Types
+-- Compiling entity SimulationInput
+-- Compiling architecture rtl of SimulationInput
+End time: 19:53:35 on Dec 09,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 19:53:35 on Dec 09,2020
+vcom -2008 -work xil_defaultlib ./firmware/SimulationOutput.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading package Constants
+-- Loading package Types
+-- Compiling entity SimulationOutput
+-- Compiling architecture rtl of SimulationOutput
+End time: 19:53:35 on Dec 09,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 19:53:35 on Dec 09,2020
+vcom -2008 -work xil_defaultlib ./firmware/BDTTestbench.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading package NUMERIC_STD
+-- Loading package Constants
+-- Loading package Types
+-- Compiling entity testbench
+-- Compiling architecture rtl of testbench
+-- Loading package std_logic_textio
+-- Loading entity SimulationInput
+-- Loading package Arrays0
+-- Loading entity BDTTop
+-- Loading entity SimulationOutput
+End time: 19:53:35 on Dec 09,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

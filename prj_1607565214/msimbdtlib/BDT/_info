@@ -1,0 +1,331 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/emladina/conifer/examples/prj_1607565214
+Eaddreduce
+Z1 w1607565214
+Z2 DPx4 work 5 types 0 22 hJnb;]]W75K_chRkWjX[13
+Z3 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z4 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+Z5 DPx4 work 9 constants 0 22 6VOEHkn=7e0o@=_6eSCAh0
+Z6 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z9 8./firmware/AddReduce.vhd
+Z10 F./firmware/AddReduce.vhd
+l0
+L9
+VeLjlJV0A4D4eN39AfeWH=2
+!s100 Y>Vo@:UVF:f56bbbfGC?X1
+Z11 OV;C;10.6d;65
+33
+Z12 !s110 1607565214
+!i10b 1
+Z13 !s108 1607565214.000000
+Z14 !s90 -2008|-work|BDT|./firmware/AddReduce.vhd|
+Z15 !s107 ./firmware/AddReduce.vhd|
+!i113 1
+Z16 o-2008 -work BDT
+Z17 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z18 DEx4 work 9 addreduce 0 22 eLjlJV0A4D4eN39AfeWH=2
+l41
+L22
+VSYjAB^IGYXWkK5hOWCdQR3
+!s100 iZ3zeDCmf@@n94n33?S@B1
+R11
+33
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Parrays0
+R2
+R5
+R6
+R3
+R4
+R7
+R8
+R1
+R0
+8./firmware/Arrays0.vhd
+F./firmware/Arrays0.vhd
+l0
+L8
+V=E5okBcB209F62>z5@@890
+!s100 fPCl;:aN[fX7E_V7Bga^50
+R11
+33
+R12
+!i10b 1
+R13
+!s90 -2008|-work|BDT|./firmware/Arrays0.vhd|
+!s107 ./firmware/Arrays0.vhd|
+!i113 1
+R16
+R17
+Ebdt
+R1
+R2
+R5
+R6
+R3
+R4
+R7
+R8
+R0
+Z19 8./firmware/BDT.vhd
+Z20 F./firmware/BDT.vhd
+l0
+L12
+Vd@RBA8CGHhIfaB`@Za:b42
+!s100 ;0Xjh@P82QjGcX2XDNm970
+R11
+33
+Z21 !s110 1607565215
+!i10b 1
+R13
+Z22 !s90 -2008|-work|BDT|./firmware/BDT.vhd|
+Z23 !s107 ./firmware/BDT.vhd|
+!i113 1
+R16
+R17
+Artl
+R18
+Z24 DEx4 work 4 tree 0 22 DbfJ:Q6F4I;C?`Xic=7>@2
+R2
+R5
+R6
+R3
+R4
+R7
+R8
+Z25 DEx4 work 3 bdt 0 22 d@RBA8CGHhIfaB`@Za:b42
+l38
+L33
+V<^PG?`8QM><iMTU:j>goe0
+!s100 3A6COZ8iAjXV3SMINJlb>1
+R11
+33
+R21
+!i10b 1
+R13
+R22
+R23
+!i113 1
+R16
+R17
+Ebdttop
+R1
+Z26 DPx4 work 7 arrays0 0 22 =E5okBcB209F62>z5@@890
+R2
+R5
+R6
+R3
+R4
+R7
+R8
+R0
+Z27 8./firmware/BDTTop.vhd
+Z28 F./firmware/BDTTop.vhd
+l0
+L11
+Vj05Yd_R2;@8PTXW8kHI`02
+!s100 o4gILR73RG^bRS4=e6?QM1
+R11
+33
+R21
+!i10b 1
+Z29 !s108 1607565215.000000
+Z30 !s90 -2008|-work|BDT|./firmware/BDTTop.vhd|
+!s107 ./firmware/BDTTop.vhd|
+!i113 1
+R16
+R17
+Artl
+R25
+R26
+R2
+R5
+R6
+R3
+R4
+R7
+R8
+DEx4 work 6 bdttop 0 22 j05Yd_R2;@8PTXW8kHI`02
+l22
+L21
+VlLYlakBYTO_S:MR12h@`10
+!s100 @GWjL?f@moMno;CSEG<YZ0
+R11
+33
+R21
+!i10b 1
+R29
+R30
+Z31 !s107 ./firmware/BDTTop.vhd|
+!i113 1
+R16
+R17
+Pconstants
+R6
+R3
+R4
+R7
+R8
+R1
+R0
+Z32 8./firmware/Constants.vhd
+Z33 F./firmware/Constants.vhd
+l0
+L6
+V6VOEHkn=7e0o@=_6eSCAh0
+!s100 VNBYz5aHIiRm:j>1Se01B2
+R11
+33
+b1
+R12
+!i10b 1
+R13
+Z34 !s90 -2008|-work|BDT|./firmware/Constants.vhd|
+Z35 !s107 ./firmware/Constants.vhd|
+!i113 1
+R16
+R17
+Bbody
+R5
+R6
+R3
+R4
+R7
+R8
+l0
+L23
+Ve2o5=h8_K>4YjOTQ4_dQ80
+!s100 7`3<AJmd5iM8A`X9;HC:91
+R11
+33
+R12
+!i10b 1
+R13
+R34
+R35
+!i113 1
+R16
+R17
+Etree
+R1
+R2
+R5
+R6
+R3
+R4
+R7
+R8
+R0
+Z36 8./firmware/Tree.vhd
+Z37 F./firmware/Tree.vhd
+l0
+L10
+VDbfJ:Q6F4I;C?`Xic=7>@2
+!s100 G6:F]8LXjTWIQO_3C^g>S2
+R11
+33
+R12
+!i10b 1
+R13
+Z38 !s90 -2008|-work|BDT|./firmware/Tree.vhd|
+Z39 !s107 ./firmware/Tree.vhd|
+!i113 1
+R16
+R17
+Artl
+R2
+R5
+R6
+R3
+R4
+R7
+R8
+R24
+l37
+L30
+V;X[I2Ole1ESoC;Dzj1hP00
+!s100 T?1Vh0z7?@m9zZbAY_ERS0
+R11
+33
+R12
+!i10b 1
+R13
+R38
+R39
+!i113 1
+R16
+R17
+Ptypes
+R5
+R6
+R3
+R4
+R7
+R8
+R1
+R0
+Z40 8./firmware/Types.vhd
+Z41 F./firmware/Types.vhd
+l0
+L9
+VhJnb;]]W75K_chRkWjX[13
+!s100 S1Ao<Vh0GllUXEohE:kSd1
+R11
+33
+b1
+R12
+!i10b 1
+R13
+Z42 !s90 -2008|-work|BDT|./firmware/Types.vhd|
+Z43 !s107 ./firmware/Types.vhd|
+!i113 1
+R16
+R17
+Bbody
+R2
+R5
+R6
+R3
+R4
+R7
+R8
+l0
+L29
+VoQoH5:4_GDLaUa?Dh]0M53
+!s100 Z`^XgggF_?9fF2`92UYW50
+R11
+33
+R12
+!i10b 1
+R13
+R42
+R43
+!i113 1
+R16
+R17
